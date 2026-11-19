@@ -1,14 +1,14 @@
 # Política de privacidad
 
-_Actualizado: 16 de noviembre de 2026_
+_Actualizado: 19 de noviembre de 2026_
 
 ## En resumen
 
-Sombrero es un juego gratuito para jugar en grupo. No recopilamos tus datos: la app no tiene cuentas, anuncios, analíticas ni servidores propios. Todo lo que escribes se queda solo en tu teléfono.
+The Hat es un juego gratuito para jugar en grupo. No recopilamos tus datos: la app no tiene cuentas, anuncios, analíticas ni servidores propios. Todo lo que escribes se queda solo en tu teléfono.
 
 ## Qué se guarda en el teléfono
 
-Para que el juego funcione, la app guarda en tu teléfono: los nombres de los jugadores y las tarjetas de un juego sin terminar (se borran cuando el juego termina); los ajustes: idioma, tema, volumen y categorías elegidas; las tarjetas al azar de los dos últimos juegos, para que el 🎲 no se repita; tus categorías propias con sus palabras, hasta que las borres. Nada de esto se envía a ningún lado.
+Para que el juego funcione, la app guarda en tu teléfono: los nombres de los jugadores y las tarjetas de un juego sin terminar (se borran cuando el juego termina); los ajustes: idioma, tema, volumen y categorías elegidas; las tarjetas al azar de los dos últimos juegos, para que el 🎲 no se repita; tus categorías propias con sus palabras, hasta que las borres. Nada de esto se envía a ningún lado. La app también recuerda que ya preguntó «¿Primera vez?».
 
 ## Permisos
 
@@ -16,7 +16,7 @@ La app usa el sensor de movimiento del teléfono (giroscopio) solo para ocultar 
 
 ## Compartir datos
 
-No compartimos ni vendemos datos: simplemente no los tenemos. La app funciona sin internet. Si algún día hay compras, las gestionan App Store y Google Play: nunca vemos los datos de tu tarjeta.
+No compartimos ni vendemos datos: simplemente no los tenemos. La app funciona sin internet. Si algún día hay compras, las gestionan App Store y Google Play: nunca vemos los datos de tu tarjeta. El botón Compartir en la pantalla de resultados crea una imagen con los resultados en tu teléfono y abre el menú Compartir del teléfono. La imagen va solo adonde tú la envíes y solo cuando tocas el botón: nosotros no la recibimos. Si la guardas en Fotos, lo hace el propio teléfono.
 
 ## Seguridad
 

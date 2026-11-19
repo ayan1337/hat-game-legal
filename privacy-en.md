@@ -1,14 +1,14 @@
 # Privacy Policy
 
-_Updated: November 16, 2026_
+_Updated: November 19, 2026_
 
 ## In short
 
-Hat is a free party game. We don't collect your data: the app has no accounts, ads, analytics or servers of its own. Everything you type stays on your phone.
+The Hat is a free party game. We don't collect your data: the app has no accounts, ads, analytics or servers of its own. Everything you type stays on your phone.
 
 ## What stays on your phone
 
-To make the game work, the app keeps on your phone: player names and cards of an unfinished game (erased when the game ends); settings - language, theme, volume and chosen categories; the random cards of the last two games, so the 🎲 doesn't repeat itself; your own categories with their words - until you delete them. None of this is ever sent anywhere.
+To make the game work, the app keeps on your phone: player names and cards of an unfinished game (erased when the game ends); settings - language, theme, volume and chosen categories; the random cards of the last two games, so the 🎲 doesn't repeat itself; your own categories with their words - until you delete them. None of this is ever sent anywhere. The app also remembers that it has already asked “First time playing?”.
 
 ## Permissions
 
@@ -16,7 +16,7 @@ The app uses the phone's motion sensor (gyroscope) only to hide the word if the 
 
 ## Sharing
 
-We don't share or sell any data - we simply don't have it. The app works offline. If purchases ever appear, they are handled by the App Store and Google Play: we never see your card details.
+We don't share or sell any data - we simply don't have it. The app works offline. If purchases ever appear, they are handled by the App Store and Google Play: we never see your card details. The Share button on the results screen makes a picture of the game results right on your phone and opens the phone’s share menu. The picture goes only where you send it, and only after you tap - we never receive it. If you save it to Photos, your phone does that itself.
 
 ## Security
 

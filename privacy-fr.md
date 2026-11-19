@@ -1,14 +1,14 @@
 # Politique de confidentialité
 
-_Mis à jour le 16 novembre 2026_
+_Mis à jour le 19 novembre 2026_
 
 ## En bref
 
-Chapeau est un jeu gratuit à plusieurs. Nous ne collectons pas tes données : l’appli n’a ni comptes, ni publicités, ni statistiques, ni serveurs à elle. Tout ce que tu écris reste uniquement sur ton téléphone.
+The Hat est un jeu gratuit à plusieurs. Nous ne collectons pas tes données : l’appli n’a ni comptes, ni publicités, ni statistiques, ni serveurs à elle. Tout ce que tu écris reste uniquement sur ton téléphone.
 
 ## Ce qui reste sur le téléphone
 
-Pour que le jeu fonctionne, l’appli garde sur ton téléphone : les noms des joueurs et les cartes d’une partie non terminée (effacés à la fin de la partie) ; les réglages : langue, thème, volume et catégories choisies ; les cartes au hasard des deux dernières parties, pour que le 🎲 ne se répète pas ; tes propres catégories et leurs mots, jusqu’à ce que tu les supprimes. Rien de tout cela n’est envoyé nulle part.
+Pour que le jeu fonctionne, l’appli garde sur ton téléphone : les noms des joueurs et les cartes d’une partie non terminée (effacés à la fin de la partie) ; les réglages : langue, thème, volume et catégories choisies ; les cartes au hasard des deux dernières parties, pour que le 🎲 ne se répète pas ; tes propres catégories et leurs mots, jusqu’à ce que tu les supprimes. Rien de tout cela n’est envoyé nulle part. L’appli retient aussi qu’elle a déjà posé la question « Première partie ? ».
 
 ## Autorisations
 
@@ -16,7 +16,7 @@ L’appli utilise le capteur de mouvement du téléphone (gyroscope) uniquement 
 
 ## Partage
 
-Nous ne partageons et ne vendons aucune donnée : nous n’en avons tout simplement pas. L’appli fonctionne sans internet. Si un jour il y a des achats, ce sont l’App Store et Google Play qui s’en occupent : nous ne voyons jamais les données de ta carte.
+Nous ne partageons et ne vendons aucune donnée : nous n’en avons tout simplement pas. L’appli fonctionne sans internet. Si un jour il y a des achats, ce sont l’App Store et Google Play qui s’en occupent : nous ne voyons jamais les données de ta carte. Le bouton Partager sur l’écran des résultats crée une image des résultats directement sur ton téléphone et ouvre le menu de partage du téléphone. L’image part seulement là où tu l’envoies, et seulement après ton appui : nous ne la recevons pas. Si tu l’enregistres dans Photos, c’est ton téléphone qui le fait.
 
 ## Sécurité
 

@@ -1,14 +1,14 @@
 # Datenschutzerklärung
 
-_Aktualisiert: 16. November 2026_
+_Aktualisiert: 19. November 2026_
 
 ## Kurz gesagt
 
-„Hut“ ist ein kostenloses Partyspiel. Wir sammeln keine Daten von dir: Die App hat keine Konten, keine Werbung, keine Analyse und keine eigenen Server. Alles, was du eingibst, bleibt nur auf deinem Handy.
+„The Hat“ ist ein kostenloses Partyspiel. Wir sammeln keine Daten von dir: Die App hat keine Konten, keine Werbung, keine Analyse und keine eigenen Server. Alles, was du eingibst, bleibt nur auf deinem Handy.
 
 ## Was auf dem Handy gespeichert wird
 
-Damit das Spiel funktioniert, speichert die App auf deinem Handy: die Namen der Spieler und die Karten eines nicht beendeten Spiels (sie werden gelöscht, wenn das Spiel endet); die Einstellungen - Sprache, Design, Lautstärke und gewählte Kategorien; die Zufallskarten der letzten zwei Spiele, damit sich der 🎲 nicht wiederholt; deine eigenen Kategorien mit ihren Wörtern, bis du sie löschst. Nichts davon wird irgendwohin gesendet.
+Damit das Spiel funktioniert, speichert die App auf deinem Handy: die Namen der Spieler und die Karten eines nicht beendeten Spiels (sie werden gelöscht, wenn das Spiel endet); die Einstellungen - Sprache, Design, Lautstärke und gewählte Kategorien; die Zufallskarten der letzten zwei Spiele, damit sich der 🎲 nicht wiederholt; deine eigenen Kategorien mit ihren Wörtern, bis du sie löschst. Nichts davon wird irgendwohin gesendet. Außerdem merkt sich die App, dass sie „Zum ersten Mal?“ schon gefragt hat.
 
 ## Berechtigungen
 
@@ -16,7 +16,7 @@ Die App nutzt den Bewegungssensor des Handys (Gyroskop) nur, um das Wort zu verb
 
 ## Weitergabe
 
-Wir geben keine Daten weiter und verkaufen keine - wir haben schlicht keine. Die App funktioniert offline. Falls es einmal Käufe gibt, wickeln App Store und Google Play sie ab: Deine Kartendaten sehen wir nie.
+Wir geben keine Daten weiter und verkaufen keine - wir haben schlicht keine. Die App funktioniert offline. Falls es einmal Käufe gibt, wickeln App Store und Google Play sie ab: Deine Kartendaten sehen wir nie. Die Teilen-Taste auf dem Ergebnis-Bildschirm erstellt ein Bild mit den Spielergebnissen direkt auf deinem Handy und öffnet das Teilen-Menü des Handys. Das Bild geht nur dorthin, wohin du es schickst, und nur nach deinem Tippen - wir bekommen es nicht. Speicherst du es in „Fotos“, macht das dein Handy selbst.
 
 ## Sicherheit
 

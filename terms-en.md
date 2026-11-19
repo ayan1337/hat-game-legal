@@ -1,14 +1,14 @@
 # Terms of Use
 
-_Updated: November 16, 2026_
+_Updated: November 19, 2026_
 
 ## Agreement
 
-By installing and using Hat you agree to these terms. If you don't agree, please don't use the app.
+By installing and using The Hat you agree to these terms. If you don't agree, please don't use the app.
 
 ## Free and "as is"
 
-Hat is free. It is provided "as is": we do our best to make everything work, but we can't promise it will never have bugs.
+The Hat is free. It is provided "as is": we do our best to make everything work, but we can't promise it will never have bugs.
 
 ## What it's for
 
@@ -20,7 +20,7 @@ The game is made for a general audience. Children under 13 (or the age set by th
 
 ## What players write
 
-Player names, team names, card words and own categories are written by the players themselves. The app doesn't check them or send them anywhere - the developer can't see or delete them. Whoever writes something is fully responsible for it. Please don't write insults, swearing, calls to violence, words that put people down for their nationality, gender, religion, looks or anything else, or anything illegal. If the game goes the wrong way, just stop it.
+Player names, team names, card words and own categories are written by the players themselves. The app doesn't check them or send them anywhere - the developer can't see or delete them. Whoever writes something is fully responsible for it. Please don't write insults, swearing, calls to violence, words that put people down for their nationality, gender, religion, looks or anything else, or anything illegal. If the game goes the wrong way, just stop it. The results picture (Share) shows player names and some words - before sending it, make sure everyone is fine with that.
 
 ## Names in the categories
 
@@ -28,7 +28,7 @@ The categories include names of real people and characters, brands, places and e
 
 ## Turn tasks and safety
 
-Some tasks ask you to move: stand on one leg, act like an animal, gesture. Only do what is safe for you and the people around you, look around and hold the phone firmly. You can always skip a task.
+Some tasks ask you to move: stand on one leg, act like an animal, gesture. Only do what is safe for you and the people around you, look around and hold the phone firmly. You can always skip a task. To stop such tasks from coming up, turn on “🧘 No moving around” in the game settings.
 
 ## Liability
 

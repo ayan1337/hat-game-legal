@@ -1,14 +1,14 @@
 # Nutzungsbedingungen
 
-_Aktualisiert: 16. November 2026_
+_Aktualisiert: 19. November 2026_
 
 ## Zustimmung
 
-Wenn du „Hut“ installierst und nutzt, stimmst du diesen Bedingungen zu. Wenn du nicht einverstanden bist, nutze die App bitte nicht.
+Wenn du „The Hat“ installierst und nutzt, stimmst du diesen Bedingungen zu. Wenn du nicht einverstanden bist, nutze die App bitte nicht.
 
 ## Kostenlos und „wie besehen“
 
-„Hut“ ist kostenlos. Die App wird „wie besehen“ angeboten: Wir tun unser Bestes, damit alles funktioniert, können aber nicht versprechen, dass es nie Fehler gibt.
+„The Hat“ ist kostenlos. Die App wird „wie besehen“ angeboten: Wir tun unser Bestes, damit alles funktioniert, können aber nicht versprechen, dass es nie Fehler gibt.
 
 ## Wofür
 
@@ -20,7 +20,7 @@ Das Spiel richtet sich an alle. Kinder unter 13 Jahren (oder unter dem Alter, da
 
 ## Was Spieler schreiben
 
-Namen der Spieler, Teamnamen, Wörter auf den Karten und eigene Kategorien schreiben die Spieler selbst. Die App prüft sie nicht und sendet sie nirgendwohin - der Entwickler kann sie weder sehen noch löschen. Wer etwas schreibt, ist voll dafür verantwortlich. Bitte schreib keine Beleidigungen, Schimpfwörter, Aufrufe zu Gewalt, keine Wörter, die Menschen wegen Herkunft, Geschlecht, Religion, Aussehen oder aus anderen Gründen herabsetzen, und nichts Illegales. Wenn das Spiel aus dem Ruder läuft, hört einfach auf.
+Namen der Spieler, Teamnamen, Wörter auf den Karten und eigene Kategorien schreiben die Spieler selbst. Die App prüft sie nicht und sendet sie nirgendwohin - der Entwickler kann sie weder sehen noch löschen. Wer etwas schreibt, ist voll dafür verantwortlich. Bitte schreib keine Beleidigungen, Schimpfwörter, Aufrufe zu Gewalt, keine Wörter, die Menschen wegen Herkunft, Geschlecht, Religion, Aussehen oder aus anderen Gründen herabsetzen, und nichts Illegales. Wenn das Spiel aus dem Ruder läuft, hört einfach auf. Auf dem Ergebnisbild (Teilen) stehen die Namen aller Mitspielenden und einige Wörter - frag vor dem Senden, ob alle einverstanden sind.
 
 ## Namen in den Kategorien
 
@@ -28,7 +28,7 @@ Die Kategorien enthalten Namen echter Menschen und Figuren, Marken, Orte und Ere
 
 ## Aufgaben pro Zug und Sicherheit
 
-Manche Aufgaben verlangen Bewegung: auf einem Bein stehen, ein Tier nachmachen, gestikulieren. Mach nur, was für dich und die Leute um dich herum sicher ist, schau dich um und halte das Handy gut fest. Du kannst eine Aufgabe immer ablehnen.
+Manche Aufgaben verlangen Bewegung: auf einem Bein stehen, ein Tier nachmachen, gestikulieren. Mach nur, was für dich und die Leute um dich herum sicher ist, schau dich um und halte das Handy gut fest. Du kannst eine Aufgabe immer ablehnen. Damit solche Aufgaben nicht kommen, schalte in den Spieleinstellungen „🧘 Ohne Bewegung“ ein.
 
 ## Haftung
 

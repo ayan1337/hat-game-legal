@@ -1,14 +1,14 @@
 # Política de privacidade
 
-_Atualizado em: 16 de novembro de 2026_
+_Atualizado em: 19 de novembro de 2026_
 
 ## Resumo
 
-Chapéu é um jogo gratuito para jogar em grupo. Não coletamos seus dados: o app não tem contas, anúncios, análises nem servidores próprios. Tudo o que você digita fica só no seu celular.
+The Hat é um jogo gratuito para jogar em grupo. Não coletamos seus dados: o app não tem contas, anúncios, análises nem servidores próprios. Tudo o que você digita fica só no seu celular.
 
 ## O que fica no celular
 
-Para o jogo funcionar, o app guarda no seu celular: os nomes dos jogadores e as cartas de um jogo não terminado (apagados quando o jogo termina); as configurações: idioma, tema, volume e categorias escolhidas; as cartas aleatórias dos dois últimos jogos, para o 🎲 não se repetir; suas categorias próprias com as palavras, até você apagá-las. Nada disso é enviado para lugar nenhum.
+Para o jogo funcionar, o app guarda no seu celular: os nomes dos jogadores e as cartas de um jogo não terminado (apagados quando o jogo termina); as configurações: idioma, tema, volume e categorias escolhidas; as cartas aleatórias dos dois últimos jogos, para o 🎲 não se repetir; suas categorias próprias com as palavras, até você apagá-las. Nada disso é enviado para lugar nenhum. O app também lembra que já perguntou «Primeira vez?».
 
 ## Permissões
 
@@ -16,7 +16,7 @@ O app usa o sensor de movimento do celular (giroscópio) só para esconder a pal
 
 ## Compartilhamento
 
-Não compartilhamos nem vendemos dados: simplesmente não os temos. O app funciona sem internet. Se um dia houver compras, quem as processa são a App Store e o Google Play: nunca vemos os dados do seu cartão.
+Não compartilhamos nem vendemos dados: simplesmente não os temos. O app funciona sem internet. Se um dia houver compras, quem as processa são a App Store e o Google Play: nunca vemos os dados do seu cartão. O botão Compartilhar na tela de resultados cria uma imagem com os resultados no seu celular e abre o menu de compartilhamento do celular. A imagem vai só para onde você enviar e só depois que você tocar: nós não a recebemos. Se você salvar em Fotos, quem faz isso é o próprio celular.
 
 ## Segurança
 

@@ -6,3 +6,4 @@
 - **pt**: [Política de privacidade](privacy-pt.md) · [Termos de uso](terms-pt.md)
 - **de**: [Datenschutzerklärung](privacy-de.md) · [Nutzungsbedingungen](terms-de.md)
 - **fr**: [Politique de confidentialité](privacy-fr.md) · [Conditions d’utilisation](terms-fr.md)
+- **uk**: [Політика конфіденційності](privacy-uk.md) · [Умови використання](terms-uk.md)

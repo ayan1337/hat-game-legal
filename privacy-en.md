@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Updated: November 19, 2026_
+_Updated: November 23, 2026_
 
 ## In short
 
@@ -12,11 +12,11 @@ To make the game work, the app keeps on your phone: player names and cards of an
 
 ## Permissions
 
-The app uses the phone's motion sensor (gyroscope) only to hide the word if the phone is turned sharply. Sensor readings are not stored or sent. The app also uses sound and vibration. It does not use the camera, microphone, location, contacts or photos.
+The app uses the phone's motion sensor (gyroscope) only to hide the word if the phone is turned sharply. Sensor readings are not stored or sent. The app also uses sound and vibration. The camera turns on only when you open the QR scanner yourself (the QR button), and only to read a QR code with cards or a game. No photos are taken, stored or sent. Your phone asks for camera permission once; you can say no and simply write cards on one phone as usual. The app does not use the microphone, location, contacts or photos.
 
 ## Sharing
 
-We don't share or sell any data - we simply don't have it. The app works offline. If purchases ever appear, they are handled by the App Store and Google Play: we never see your card details. The Share button on the results screen makes a picture of the game results right on your phone and opens the phone’s share menu. The picture goes only where you send it, and only after you tap - we never receive it. If you save it to Photos, your phone does that itself.
+We don't share or sell any data - we simply don't have it. The app works offline. If purchases ever appear, they are handled by the App Store and Google Play: we never see your card details. The Share button on the results screen makes a picture of the game results right on your phone and opens the phone’s share menu. The picture goes only where you send it, and only after you tap - we never receive it. If you save it to Photos, your phone does that itself. Cards by QR code: names and cards go straight from one phone's screen to another phone's camera nearby, without the internet or our servers. On a guest's phone they are kept until they tap “Done, exit”.
 
 ## Security
 

@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-_Aktualisiert: 19. November 2026_
+_Aktualisiert: 23. November 2026_
 
 ## Kurz gesagt
 
@@ -12,11 +12,11 @@ Damit das Spiel funktioniert, speichert die App auf deinem Handy: die Namen der 
 
 ## Berechtigungen
 
-Die App nutzt den Bewegungssensor des Handys (Gyroskop) nur, um das Wort zu verbergen, wenn das Handy ruckartig gedreht wird. Die Sensordaten werden weder gespeichert noch gesendet. Außerdem nutzt die App Ton und Vibration. Kamera, Mikrofon, Standort, Kontakte und Fotos werden nicht verwendet.
+Die App nutzt den Bewegungssensor des Handys (Gyroskop) nur, um das Wort zu verbergen, wenn das Handy ruckartig gedreht wird. Die Sensordaten werden weder gespeichert noch gesendet. Außerdem nutzt die App Ton und Vibration. Die Kamera schaltet sich nur ein, wenn du selbst den QR-Scanner öffnest (QR-Knopf), und nur, um einen QR-Code mit Karten oder einem Spiel zu lesen. Es werden keine Fotos gemacht, gespeichert oder gesendet. Das Handy fragt einmal nach der Kamera-Erlaubnis; du kannst ablehnen und die Karten wie gewohnt auf einem Handy schreiben. Mikrofon, Standort, Kontakte und Fotos werden nicht verwendet.
 
 ## Weitergabe
 
-Wir geben keine Daten weiter und verkaufen keine - wir haben schlicht keine. Die App funktioniert offline. Falls es einmal Käufe gibt, wickeln App Store und Google Play sie ab: Deine Kartendaten sehen wir nie. Die Teilen-Taste auf dem Ergebnis-Bildschirm erstellt ein Bild mit den Spielergebnissen direkt auf deinem Handy und öffnet das Teilen-Menü des Handys. Das Bild geht nur dorthin, wohin du es schickst, und nur nach deinem Tippen - wir bekommen es nicht. Speicherst du es in „Fotos“, macht das dein Handy selbst.
+Wir geben keine Daten weiter und verkaufen keine - wir haben schlicht keine. Die App funktioniert offline. Falls es einmal Käufe gibt, wickeln App Store und Google Play sie ab: Deine Kartendaten sehen wir nie. Die Teilen-Taste auf dem Ergebnis-Bildschirm erstellt ein Bild mit den Spielergebnissen direkt auf deinem Handy und öffnet das Teilen-Menü des Handys. Das Bild geht nur dorthin, wohin du es schickst, und nur nach deinem Tippen - wir bekommen es nicht. Speicherst du es in „Fotos“, macht das dein Handy selbst. Karten per QR-Code: Namen und Karten gehen direkt vom Bildschirm eines Handys in die Kamera eines anderen in der Nähe, ohne Internet und ohne unsere Server. Auf dem Handy der beitretenden Person bleiben sie, bis sie „Fertig, beenden“ tippt.
 
 ## Sicherheit
 

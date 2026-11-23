@@ -1,6 +1,6 @@
 # Política de privacidade
 
-_Atualizado em: 19 de novembro de 2026_
+_Atualizado em: 23 de novembro de 2026_
 
 ## Resumo
 
@@ -12,11 +12,11 @@ Para o jogo funcionar, o app guarda no seu celular: os nomes dos jogadores e as 
 
 ## Permissões
 
-O app usa o sensor de movimento do celular (giroscópio) só para esconder a palavra se o celular for virado de repente. Os dados do sensor não são guardados nem enviados. O app também usa som e vibração. Não usa câmera, microfone, localização, contatos nem fotos.
+O app usa o sensor de movimento do celular (giroscópio) só para esconder a palavra se o celular for virado de repente. Os dados do sensor não são guardados nem enviados. O app também usa som e vibração. A câmera liga só quando você mesmo abre o leitor de QR (botão QR), e só para ler um código QR com cartas ou uma partida. Nenhuma foto é tirada, salva ou enviada. O celular pede permissão da câmera uma vez; você pode recusar e escrever as cartas em um só celular, como sempre. Não usa microfone, localização, contatos nem fotos.
 
 ## Compartilhamento
 
-Não compartilhamos nem vendemos dados: simplesmente não os temos. O app funciona sem internet. Se um dia houver compras, quem as processa são a App Store e o Google Play: nunca vemos os dados do seu cartão. O botão Compartilhar na tela de resultados cria uma imagem com os resultados no seu celular e abre o menu de compartilhamento do celular. A imagem vai só para onde você enviar e só depois que você tocar: nós não a recebemos. Se você salvar em Fotos, quem faz isso é o próprio celular.
+Não compartilhamos nem vendemos dados: simplesmente não os temos. O app funciona sem internet. Se um dia houver compras, quem as processa são a App Store e o Google Play: nunca vemos os dados do seu cartão. O botão Compartilhar na tela de resultados cria uma imagem com os resultados no seu celular e abre o menu de compartilhamento do celular. A imagem vai só para onde você enviar e só depois que você tocar: nós não a recebemos. Se você salvar em Fotos, quem faz isso é o próprio celular. Cartas por QR: nomes e cartas passam direto da tela de um celular para a câmera de outro, por perto, sem internet nem servidores nossos. No celular de quem entra, ficam guardados até tocar em «Pronto, sair».
 
 ## Segurança
 

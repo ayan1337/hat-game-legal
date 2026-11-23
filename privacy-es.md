@@ -1,6 +1,6 @@
 # Política de privacidad
 
-_Actualizado: 19 de noviembre de 2026_
+_Actualizado: 23 de noviembre de 2026_
 
 ## En resumen
 
@@ -12,11 +12,11 @@ Para que el juego funcione, la app guarda en tu teléfono: los nombres de los ju
 
 ## Permisos
 
-La app usa el sensor de movimiento del teléfono (giroscopio) solo para ocultar la palabra si el teléfono se gira de golpe. Los datos del sensor no se guardan ni se envían. También usa sonido y vibración. No usa la cámara, el micrófono, la ubicación, los contactos ni las fotos.
+La app usa el sensor de movimiento del teléfono (giroscopio) solo para ocultar la palabra si el teléfono se gira de golpe. Los datos del sensor no se guardan ni se envían. También usa sonido y vibración. La cámara se enciende solo cuando abres tú el lector de QR (botón QR), y solo para leer un código QR con tarjetas o una partida. No se toman, guardan ni envían fotos. El teléfono pide permiso de cámara una vez; puedes negarlo y escribir las tarjetas en un solo teléfono, como siempre. No usa el micrófono, la ubicación, los contactos ni las fotos.
 
 ## Compartir datos
 
-No compartimos ni vendemos datos: simplemente no los tenemos. La app funciona sin internet. Si algún día hay compras, las gestionan App Store y Google Play: nunca vemos los datos de tu tarjeta. El botón Compartir en la pantalla de resultados crea una imagen con los resultados en tu teléfono y abre el menú Compartir del teléfono. La imagen va solo adonde tú la envíes y solo cuando tocas el botón: nosotros no la recibimos. Si la guardas en Fotos, lo hace el propio teléfono.
+No compartimos ni vendemos datos: simplemente no los tenemos. La app funciona sin internet. Si algún día hay compras, las gestionan App Store y Google Play: nunca vemos los datos de tu tarjeta. El botón Compartir en la pantalla de resultados crea una imagen con los resultados en tu teléfono y abre el menú Compartir del teléfono. La imagen va solo adonde tú la envíes y solo cuando tocas el botón: nosotros no la recibimos. Si la guardas en Fotos, lo hace el propio teléfono. Tarjetas por QR: los nombres y las tarjetas pasan directamente de la pantalla de un teléfono a la cámara de otro, cerca, sin internet ni servidores nuestros. En el teléfono de quien se une se guardan hasta que toca «Listo, salir».
 
 ## Seguridad
 

@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-_Mis à jour le 19 novembre 2026_
+_Mis à jour le 23 novembre 2026_
 
 ## En bref
 
@@ -12,11 +12,11 @@ Pour que le jeu fonctionne, l’appli garde sur ton téléphone : les noms des j
 
 ## Autorisations
 
-L’appli utilise le capteur de mouvement du téléphone (gyroscope) uniquement pour cacher le mot si on tourne brusquement le téléphone. Les données du capteur ne sont ni gardées ni envoyées. L’appli utilise aussi le son et la vibration. Elle n’utilise ni l’appareil photo, ni le micro, ni la position, ni les contacts, ni les photos.
+L’appli utilise le capteur de mouvement du téléphone (gyroscope) uniquement pour cacher le mot si on tourne brusquement le téléphone. Les données du capteur ne sont ni gardées ni envoyées. L’appli utilise aussi le son et la vibration. La caméra s’allume seulement quand vous ouvrez vous-même le lecteur de QR (bouton QR), et seulement pour lire un code QR avec des cartes ou une partie. Aucune photo n’est prise, gardée ou envoyée. Le téléphone demande l’autorisation de la caméra une fois ; vous pouvez refuser et écrire les cartes sur un seul téléphone, comme d’habitude. L’appli n’utilise ni le micro, ni la position, ni les contacts, ni les photos.
 
 ## Partage
 
-Nous ne partageons et ne vendons aucune donnée : nous n’en avons tout simplement pas. L’appli fonctionne sans internet. Si un jour il y a des achats, ce sont l’App Store et Google Play qui s’en occupent : nous ne voyons jamais les données de ta carte. Le bouton Partager sur l’écran des résultats crée une image des résultats directement sur ton téléphone et ouvre le menu de partage du téléphone. L’image part seulement là où tu l’envoies, et seulement après ton appui : nous ne la recevons pas. Si tu l’enregistres dans Photos, c’est ton téléphone qui le fait.
+Nous ne partageons et ne vendons aucune donnée : nous n’en avons tout simplement pas. L’appli fonctionne sans internet. Si un jour il y a des achats, ce sont l’App Store et Google Play qui s’en occupent : nous ne voyons jamais les données de ta carte. Le bouton Partager sur l’écran des résultats crée une image des résultats directement sur ton téléphone et ouvre le menu de partage du téléphone. L’image part seulement là où tu l’envoies, et seulement après ton appui : nous ne la recevons pas. Si tu l’enregistres dans Photos, c’est ton téléphone qui le fait. Cartes par QR : les noms et les cartes passent directement de l’écran d’un téléphone à la caméra d’un autre, à proximité, sans internet ni serveurs à nous. Sur le téléphone de la personne qui rejoint, ils restent jusqu’à « Terminé, quitter ».
 
 ## Sécurité
 
